@@ -48,29 +48,77 @@ The objective is to move from **descriptive churn analysis to actionable retenti
 
 ---
 
-## 📊 Power BI Dashboard
-
-This project includes a 5-page Power BI dashboard covering customer churn, risk segmentation, retention prioritization, and executive recommendations.
+## 📊 Dashboard Preview
 
 ### Cover Page
 
-![Cover Page](./Customer-Churn-Retention-Strategy/Dashboard%20Images/01_Cover.png)
+![Customer Churn & Retention Strategy](./Customer-Churn-Retention-Strategy/Dashboard%20Images/01_Cover.png)
 
-### Customer Churn Overview
+## 1. Customer Churn Overview
+
+Provides a high-level view of customer churn and retention performance.
+
+### Key areas analyzed
+
+- Total customers
+- Churned customers
+- Churn rate
+- Retention rate
+- Critical-risk customers
+- Churn rate by geography
+- Churn rate by customer value segment
+- Churn rate by number of products
+- Churn rate by age group
+- Churn rate by engagement status
 
 ![Customer Churn Overview](./Customer-Churn-Retention-Strategy/Dashboard%20Images/02_Customer_Churn_Overview.png)
 
-### Customer Risk & Retention Analysis
+---
 
+## 2. Customer Risk & Retention Analysis
+
+Focuses on identifying and understanding customers requiring greater retention attention.
+
+### Analysis includes
+
+- Customer distribution by risk segment
+- Churned customers by risk segment
+- Customer risk by geography
+- Customer risk by age group
+- Retention priority distribution
+- High-risk customer profile
+- Risk distribution across customer groups
 ![Customer Risk & Retention Analysis](./Customer-Churn-Retention-Strategy/Dashboard%20Images/03_Customer_Risk_Retention.png)
+---
 
-### Retention Strategy & Action Plan
+## 3. Retention Strategy & Action Plan
+
+Moves from analysis toward **retention prioritization**.
+
+The page examines:
+
+- Immediate intervention customers by geography
+- Customers by retention priority
+- High-priority customers by value segment
+- Retention priority by engagement status
+- Retention priority by age group
+- High-priority customers by geography and value segment
+- Recommended retention action framework
 
 ![Retention Strategy & Action Plan](./Customer-Churn-Retention-Strategy/Dashboard%20Images/04_Retention_Strategy.png)
 
-### Executive Recommendations
+---
+
+## 4. Executive Recommendations
+
+Provides an executive-level view of the customer retention problem and highlights the areas that require management attention.
+
+The analysis connects:
+
+**Customer Profile → Churn Analysis → Risk Segmentation → Retention Prioritization → Action Planning**
 
 ![Executive Recommendations](./Customer-Churn-Retention-Strategy/Dashboard%20Images/05_Executive_Recommendations.png)
+---
 
 # 🔎 Key Business Insights
 
